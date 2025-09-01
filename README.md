@@ -1,4 +1,6 @@
 # UI-UX-Experiment2
+# NAME: CHARITHRAKSHI K
+# REG. NO: 212224040053
 
 ## Aim: to Design a Basic Mobile and Web Layout for an Existing Case Study
 
